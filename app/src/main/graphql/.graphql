@@ -1,0 +1,5 @@
+query Sample {
+  authors {
+    id
+  }
+}
